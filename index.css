@@ -1,0 +1,34 @@
+/*Capstone Project One*/
+
+body{
+	font-family: "Helvetica Neue" sans;	
+}
+
+#navBar{
+	background-color: #a2e88e;
+}
+
+#navCol{
+	color: #1117bf;
+}
+
+#aboutMe{
+	background-color: #d8d8d6;
+}
+
+#aboutContent{
+	background-color: #a3dc6e;
+}
+
+#cardMain{
+	background-color: #757c74;
+}
+
+#homeBg{
+	color: #adea5a;
+}
+
+#contactMe{
+	background-color: #fdf5cc;
+}
+
